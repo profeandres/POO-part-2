@@ -1,8 +1,5 @@
 package co.edu.utp.misiontic2022.c2.Ejercicio12_4_a;
 
-/**
- * Cuadrado
- */
 public class Cuadrado {
     int lado;
     int perimetro;
